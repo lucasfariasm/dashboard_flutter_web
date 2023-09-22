@@ -1,5 +1,5 @@
 import 'package:dashboard_web/core/theme/theme.dart';
-import 'package:dashboard_web/core/widgets/progress_indicator_overlay.dart';
+import 'package:dashboard_web/core/widgets/my_progress_indicator_overlay.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
